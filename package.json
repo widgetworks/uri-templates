@@ -20,7 +20,7 @@
   "readmeFilename": "README.md",
   "gitHead": "3c65c2e1809e8c0dca1fb6b440c18fbc7acd85da",
   "devDependencies": {
-    "grunt": "~0.4.1",
+    "grunt": "~1.6.1",
     "grunt-contrib-clean": "~0.4.1",
     "grunt-contrib-jshint": "~0.6.0",
     "mocha": "~1.11.0",
